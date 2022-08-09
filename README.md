@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CHCMATT
 - 👀 I’m interested in Javascript, HTML, CSS and more!
 - 🌱 I’m currently learning SQL, jQuery, and CSS.
-- 💞️ I’m looking to collaborate on: you tell me!
 - 📫 You can reach me by clicking any of the icons on my website (https://chcmatt.com) for your platform of choice.
 
 <!---
